@@ -1,0 +1,5 @@
+#JSGF V1.0;
+
+grammar menu;
+
+public <item> = play music | navigate | stop music | next song | previous song | switch on light;
